@@ -1,119 +1,101 @@
-# Hi there 👋 I'm Abhishek Ansu
+# Abhishek Ansu — Data Analyst
 
-### 📊  Data Analyst | Python | SQL | Power BI | AI Enthusiast
+**SQL • Python • Power BI • Excel**
 
-I'm an MCA graduate from **BIT Mesra** with a passion for turning raw data into meaningful insights.
+🎓 MCA, BIT Mesra
+📍 India | Open to Relocation
 
-Currently, I'm building projects in **Data Analytics**, improving my SQL and Python skills, and exploring **Data Engineering** and **Artificial Intelligence**.
-
-I'm actively looking for opportunities where I can solve real-world business problems using data.
-
----
-
-## 🚀 About Me
-
-* 🎓 MCA Graduate from BIT Mesra
-* 📈 Aspiring Data Analyst
-* 🌱 Currently learning ETL, Cloud & Data Engineering
-* 🤖 Interested in AI and Machine Learning
-* 💡 Long-term goal: Build an AI Startup
-* 📍 India
+Open to Data Analyst, Business Analyst & Data Analytics opportunities.
 
 ---
 
-## 🛠️ Tech Stack
+## 👋 About Me
 
-### Languages
+I'm a Data Analyst with a strong foundation in SQL, Python, Power BI, and Excel. I enjoy transforming raw data into actionable business insights by building interactive dashboards and solving real-world analytical problems. I'm continuously expanding my expertise in Business Analytics and Data Engineering while seeking opportunities to contribute and grow.
 
-* Python
-* SQL
+---
+
+## 🛠️ Skills
 
 ### Data Analytics
 
+* SQL (MS SQL Server)
+* Python
+* Power BI
+* Microsoft Excel
+
+### SQL
+
+* Joins
+* CTEs
+* Window Functions
+* Aggregations
+* Subqueries
+* Views
+
+### Python
+
 * Pandas
 * NumPy
-* Power BI
-* Excel
-
-### Databases
-
-* MySQL
-* SQL Server
+* Plotly
+* Streamlit
+* Matplotlib
 
 ### Tools
 
 * Git
 * GitHub
-* VS Code
 * Jupyter Notebook
-
-### Currently Exploring
-
-* ETL
-* AWS
-* Airflow
-* Docker
+* VS Code
 
 ---
 
 ## 📂 Featured Projects
 
 ### 📊 Sales Data Analysis
+🔗 https://github.com/abhishekansu/sales-data-analysis
 
-Business sales dashboard using SQL and Power BI.
+- Performed exploratory data analysis (EDA) on sales data
+- Built interactive dashboards to visualize KPIs and sales trends
+- Identified patterns to support data-driven business decisions
+
+**Tech Stack:** Python • Pandas • Plotly • Streamlit
+
+---
 
 ### 🏏 IPL Match Performance Analysis
+🔗 https://github.com/abhishekansu/IPL-Match-Performance-Analysis
 
-Data analysis project exploring player and team performance using Python and SQL.
+- Analyzed IPL match and player performance data
+- Built interactive dashboards to uncover team and player insights
+- Explored batting, bowling, and match trends using data visualization
 
-### 📈 End-to-End Data Analytics Dashboard
-
-Interactive dashboard with business insights and KPIs.
-
----
-
-## 📚 Currently Learning
-
-* Advanced SQL
-* Python for Data Analytics
-* Power BI
-* ETL Pipelines
-* AWS Cloud
-
+**Tech Stack:** Python • SQL • Power BI**
 
 ---
 
-## 📈 GitHub Stats
+## 📈 Currently Working On
 
-<p align="center">
+* Solving SQL problems daily on **StrataScratch**
+* Building end-to-end Data Analytics projects
+* Improving Power BI dashboard design
+* Learning ETL fundamentals and Data Engineering concepts
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=abhishekansu&show_icons=true&theme=tokyonight"/>
+---
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekansu&layout=compact&theme=tokyonight"/>
+## 🎯 Career Goal
 
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekansu&theme=tokyonight"/>
-
-</p>
+To begin my career as a **Data Analyst**, gain experience solving real business problems with data, and eventually transition into **Data Engineering** and **AI-powered products**.
 
 ---
 
 ## 📫 Connect With Me
 
-* LinkedIn: https://linkedin.com/in/abhishek-ansu-404468190/
-* GitHub: https://github.com/abhishekansu
-* Kaggle: https://kaggle.com/abhishekansu
+* 💼 LinkedIn: https://linkedin.com/in/abhishek-ansu-404468190
+* 💻 GitHub: https://github.com/abhishekansu
+* 📊 Kaggle: https://kaggle.com/abhishekansu
+* 📷 Instagram: https://www.instagram.com/_abhishekansu/
 
 ---
 
-## 💬 Quote
-
-> *"Small improvements every day lead to remarkable results."*
-
----
-
-⭐ If you like my work, feel free to star my repositories and connect with me!
-
+> *"Turning data into decisions, one project at a time."*
