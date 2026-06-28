@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Abhishek Ansu 👋
 
-<!--
-**abhishekansu/abhishekansu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Analyst | SQL • Python • Power BI • Excel
+MCA Graduate — BIT Mesra | Open to Analyst & Job Internship Roles
 
-Here are some ideas to get you started:
+## Projects
+- [Sales Data Analysis](https://github.com/abhishekansu/sales-data-analysis) — EDA + dashboard (Python, Plotly, Streamlit)
+- [Northwind SQL Analysis](https://github.com/abhishekansu/northwind-sql-analysis) — 15 business queries, CTEs, window functions
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently
+- Practicing SQL daily on StrataScratch
+- Open to roles in Bangalore / Kolkata
+
+## Connect
+- LinkedIn: [abhishek-ansu-404468190](https://linkedin.com/in/abhishek-ansu-404468190)
