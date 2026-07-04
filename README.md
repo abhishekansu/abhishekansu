@@ -92,7 +92,6 @@ To begin my career as a **Data Analyst**, gain experience solving real business 
 ## 📫 Connect With Me
 
 * 💼 LinkedIn: https://linkedin.com/in/abhishek-ansu-404468190
-* 💻 GitHub: https://github.com/abhishekansu
 * 📊 Kaggle: https://kaggle.com/abhishekansu
 * 📷 Instagram: https://www.instagram.com/_abhishekansu/
 
