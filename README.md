@@ -85,14 +85,18 @@ I'm currently preparing for my first Data Analyst role while strengthening my SQ
 - Learning ETL fundamentals and Data Engineering concepts
 
 ---
-
 # 🎯 Career Goal
 
 To begin my career as a Data Analyst, solve real business problems using data, and grow into a Data Engineer capable of building scalable data solutions and AI-powered products.
 
 ---
+## 📈 GitHub Stats
 
-# 📫 Connect With Me
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhishekansu&show_icons=true&theme=transparent&hide_border=true)
 
-📧 Email: ansu1032@gmail.com
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekansu&layout=compact&theme=transparent&hide_border=true)
 
+![GitHub Streak](https://streak-stats.demolab.com?user=abhishekansu&theme=transparent&hide_border=true)
+---
+
+⭐ Thanks for visiting my profile! Feel free to connect with me on LinkedIn or check out my projects.
