@@ -2,99 +2,97 @@
 
 **SQL • Python • Power BI • Excel**
 
-🎓 MCA, BIT Mesra
+🎓 MCA, BIT Mesra  
 📍 India | Open to Relocation
-
-Open to Data Analyst and Business Analyst opportunities. Passionate about solving business problems with data and building end-to-end analytics projects.
+  
+📧 Email: ansu1032@gmail.com  
+💼 LinkedIn: https://linkedin.com/in/abhishek-ansu-404468190  
+🏆 Kaggle: https://kaggle.com/abhishekansu
 
 ---
 
 ## 👋 About Me
 
-I'm a Data Analyst with a strong foundation in SQL, Python, Power BI, and Excel. I enjoy transforming raw data into actionable business insights by building interactive dashboards and solving real-world analytical problems. I'm continuously expanding my expertise in Business Analytics and Data Engineering while seeking opportunities to contribute and grow.
+I build end-to-end data analytics projects using SQL, Python, Excel, and Power BI. I enjoy cleaning data, uncovering trends, and building interactive dashboards that help solve real business problems.
+
+I'm currently preparing for my first Data Analyst role while strengthening my SQL, Python, and Business Analytics skills through real-world projects and daily problem-solving.
 
 ---
 
-## 🛠️ Skills
+# 🛠 Skills
 
-### Data Analytics
+## Data Analytics
+- SQL (MS SQL Server)
+- Python
+- Microsoft Excel
+- Power BI
 
-* SQL (MS SQL Server)
-* Python
-* Power BI
-* Microsoft Excel
+## SQL
+- SQL Server
+- Complex Joins
+- CTEs
+- Window Functions
+- Data Cleaning
+- Query Optimization
 
-### SQL
+## Python
+- Pandas
+- NumPy
+- Matplotlib
+- Plotly
+- Streamlit
 
-* Joins
-* CTEs
-* Window Functions
-* Aggregations
-* Subqueries
-* Views
-
-### Python
-
-* Pandas
-* NumPy
-* Plotly
-* Streamlit
-* Matplotlib
-
-### Tools
-
-* Git
-* GitHub
-* Jupyter Notebook
-* VS Code
+## Tools
+- Git
+- GitHub
+- Jupyter Notebook
+- VS Code
 
 ---
 
-## 📂 Featured Projects
+# 📂 Featured Projects
 
-### 📊 Sales Data Analysis
+## 📊 Sales Data Analysis
+
 🔗 https://github.com/abhishekansu/sales-data-analysis
 
-- Performed exploratory data analysis (EDA) on sales data
-- Built interactive dashboards to visualize KPIs and sales trends
-- Identified patterns to support data-driven business decisions
+- Performed Exploratory Data Analysis (EDA) on sales data
+- Cleaned and transformed data using Python and Pandas
+- Built interactive Power BI dashboards to track KPIs
+- Identified sales trends and generated business insights
 
-**Tech Stack:** Python • Pandas • Plotly • Streamlit
+**Tech Stack:** Python • SQL • Power BI • Excel
 
 ---
 
-### 🏏 IPL Match Performance Analysis
+## 🏏 IPL Match Performance Analysis
+
 🔗 https://github.com/abhishekansu/IPL-Match-Performance-Analysis
 
 - Analyzed IPL match and player performance data
-- Built interactive dashboards to uncover team and player insights
+- Built interactive dashboards for team and player insights
 - Explored batting, bowling, and match trends using data visualization
 
-**Tech Stack:** Python • SQL • Power BI**
+**Tech Stack:** Python • SQL • Power BI
 
 ---
 
-## 📈 Currently Working On
+# 🚀 Currently Working On
 
-* Solving SQL problems daily on **StrataScratch**
-* Building end-to-end Data Analytics projects
-* Improving Power BI dashboard design
-* Learning ETL fundamentals and Data Engineering concepts
-
----
-
-## 🎯 Career Goal
-
-To begin my career as a **Data Analyst**, gain experience solving real business problems with data, and eventually transition into **Data Engineering** and **AI-powered products**.
+- Solving SQL interview questions daily on StrataScratch
+- Building end-to-end Data Analytics projects
+- Improving Power BI dashboard design
+- Learning ETL fundamentals and Data Engineering concepts
 
 ---
 
-## 📫 Connect With Me
+# 🎯 Career Goal
 
-* 💼 LinkedIn: https://linkedin.com/in/abhishek-ansu-404468190
-* 📊 Kaggle: https://kaggle.com/abhishekansu
-* 📷 Instagram: https://www.instagram.com/_abhishekansu/
+To begin my career as a Data Analyst, solve real business problems using data, and grow into a Data Engineer capable of building scalable data solutions and AI-powered products.
 
 ---
 
-> *"Turning data into decisions, one project at a time."*
+# 📫 Connect With Me
+
+📧 Email: ansu1032@gmail.com
+
