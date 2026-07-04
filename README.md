@@ -5,7 +5,7 @@
 🎓 MCA, BIT Mesra
 📍 India | Open to Relocation
 
-Open to Data Analyst, Business Analyst & Data Analytics opportunities.
+Open to Data Analyst and Business Analyst opportunities. Passionate about solving business problems with data and building end-to-end analytics projects.
 
 ---
 
