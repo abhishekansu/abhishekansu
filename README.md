@@ -92,10 +92,6 @@ To begin my career as a Data Analyst, solve real business problems using data, a
 ---
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhishekansu&show_icons=true&theme=transparent&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekansu&layout=compact&theme=transparent&hide_border=true)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=abhishekansu&theme=transparent&hide_border=true)
 ---
 
