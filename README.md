@@ -1,80 +1,45 @@
-# Abhishek Ansu — Data Analyst
+# Abhishek Ansu — Data Analyst(Fresher)
 
-**SQL • Python • Power BI • Excel**
+**SQL · Power BI · Python · Excel**
 
-🎓 MCA, BIT Mesra  
+🎓 MCA, BIT Mesra (2023)
 📍 India | Open to Relocation
   
-📧 Email: ansu1032@gmail.com  
-💼 LinkedIn: https://linkedin.com/in/abhishek-ansu-404468190  
-🏆 Kaggle: https://kaggle.com/abhishekansu
+📧 [ansu1032@gmail.com](mailto:ansu1032@gmail.com) · 💼 [LinkedIn](https://linkedin.com/in/abhishek-ansu-404468190) · 🏆 [Kaggle](https://kaggle.com/abhishekansu)
+📄 [Resume](https://drive.google.com/file/d/1DvOzSVSpsTmkeNE-540nZIsb9WmWvKrX/view?usp=drive_link)
 
 ---
 
 ## 👋 About Me
 
-I build end-to-end data analytics projects using SQL, Python, Excel, and Power BI. I enjoy cleaning data, uncovering trends, and building interactive dashboards that help solve real business problems.
-
-I'm currently preparing for my first Data Analyst role while strengthening my SQL, Python, and Business Analytics skills through real-world projects and daily problem-solving.
-
----
-
-# 🛠 Skills
-
-## Data Analytics
-- SQL (MS SQL Server)
-- Python
-- Microsoft Excel
-- Power BI
-
-## SQL
-- SQL Server
-- Complex Joins
-- CTEs
-- Window Functions
-- Data Cleaning
-- Query Optimization
-
-## Python
-- Pandas
-- NumPy
-- Matplotlib
-- Plotly
-- Streamlit
-
-## Tools
-- Git
-- GitHub
-- Jupyter Notebook
-- VS Code
+I turn raw data into answers a business can act on: clean it, query it, find the pattern, and present it in a dashboard. I'm looking for my first Data Analyst role and plan to grow into data engineering.
 
 ---
 
 # 📂 Featured Projects
 
-## 📊 Sales Data Analysis
-
-🔗 https://github.com/abhishekansu/sales-data-analysis
-
-- Performed Exploratory Data Analysis (EDA) on sales data
-- Cleaned and transformed data using Python and Pandas
-- Built interactive Power BI dashboards to track KPIs
-- Identified sales trends and generated business insights
-
-**Tech Stack:** Python • SQL • Power BI • Excel
-
+### 🏏 IPL Match Performance Analysis
+**Question:** What factors actually drive match outcomes and player performance in the IPL?
+ 
+- **Python:** cleaned and preprocessed raw match and ball-by-ball data
+- **SQL:** window functions (ranking, running totals) to compute player and team metrics
+- **Power BI:** KPI dashboard with DAX measures
+ 
 ---
-
-## 🏏 IPL Match Performance Analysis
-
-🔗 https://github.com/abhishekansu/IPL-Match-Performance-Analysis
-
-- Analyzed IPL match and player performance data
-- Built interactive dashboards for team and player insights
-- Explored batting, bowling, and match trends using data visualization
-
-**Tech Stack:** Python • SQL • Power BI
-
+ 
+### 🛒 Northwind SQL Case Study
+**Question:** Which customers, products and regions drive revenue, and where is it leaking?
+ 
+- 15 business questions answered in SQL, from basic aggregations to advanced queries
+- Includes **RFM customer segmentation**
+- **Stack:** DuckDB, SQL (CTEs, window functions, multi-table joins) 
+---
+ 
+### 📊 Sales Analytics Dashboard
+Interactive dashboard on a **synthetic 2,000-row dataset** (built to practise the full pipeline end to end).
+ 
+- **Stack:** Python, Pandas, Plotly, Streamlit
+- Filters by region, product and time period, with KPI cards and trend charts
 ---
 
 # 🚀 Currently Working On
@@ -85,14 +50,31 @@ I'm currently preparing for my first Data Analyst role while strengthening my SQ
 - Learning ETL fundamentals and Data Engineering concepts
 
 ---
-# 🎯 Career Goal
-
-To begin my career as a Data Analyst, solve real business problems using data, and grow into a Data Engineer capable of building scalable data solutions and AI-powered products.
-
+## Skills
+ 
+| | |
+|---|---|
+| **SQL** | Joins · CTEs · Window functions · Data cleaning (MS SQL Server, DuckDB) |
+| **Python** | Pandas · NumPy · Matplotlib · Plotly · Streamlit |
+| **BI & Excel** | Power BI (DAX, KPI dashboards) · Excel |
+| **Tools** | Git · GitHub · Jupyter · VS Code |
+ 
 ---
+ 
+## Education & Experience
+ 
+- **MCA**, BIT Mesra, Ranchi (2023)
+- **BCA**, Usha Martin University (2021)
+- Internships: Innomatics Research Labs · Central Coalfields Limited · ALTTC Ghaziabad
+---
+ 
+## Contact
+ 
+Open to Data Analyst, SQL Analyst and BI Analyst in **Bangalore, Pune, Delhi, Hyderabad, and Kolkata**.
+📧 [ansu1032@gmail.com](mailto:ansu1032@gmail.com)
 ## 📈 GitHub Stats
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=abhishekansu&theme=transparent&hide_border=true)
 ---
 
-⭐ Thanks for visiting my profile! Feel free to connect with me on LinkedIn or check out my projects.
+⭐ Thanks for visiting my profile! Feel free to connect with me on LinkedIn or Email.
