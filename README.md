@@ -1,4 +1,4 @@
-# Abhishek Ansu — Data Analyst(Fresher)
+# Abhishek Ansu — Data Analyst
 
 **SQL · Power BI · Python · Excel**
 
@@ -28,7 +28,7 @@ I turn raw data into answers a business can act on: clean it, query it, find the
 ---
  
 ### 🛒 Northwind SQL Case Study
-**Question:** Which customers, products and regions drive revenue, and where is it leaking?
+**Question:** Which customers, products, and regions drive revenue, and where is it leaking?
  
 - 15 business questions answered in SQL, from basic aggregations to advanced queries
 - Includes **RFM customer segmentation**
@@ -36,10 +36,10 @@ I turn raw data into answers a business can act on: clean it, query it, find the
 ---
  
 ### 📊 Sales Analytics Dashboard
-Interactive dashboard on a **synthetic 2,000-row dataset** (built to practise the full pipeline end to end).
+Interactive dashboard on a **synthetic 2,000-row dataset** (built to practise the full pipeline end-to-end).
  
 - **Stack:** Python, Pandas, Plotly, Streamlit
-- Filters by region, product and time period, with KPI cards and trend charts
+- Filters by region, product, and time period, with KPI cards and trend charts
 ---
 
 # 🚀 Currently Working On
@@ -55,9 +55,9 @@ Interactive dashboard on a **synthetic 2,000-row dataset** (built to practise th
 | | |
 |---|---|
 | **SQL** | Joins · CTEs · Window functions · Data cleaning (MS SQL Server, DuckDB) |
-| **Python** | Pandas · NumPy · Matplotlib · Plotly · Streamlit |
+| **Python** | Pandas · NumPy · Matplotlib · Plotly |
 | **BI & Excel** | Power BI (DAX, KPI dashboards) · Excel |
-| **Tools** | Git · GitHub · Jupyter · VS Code |
+| **Tools** | GitHub · Jupyter · VS Code |
  
 ---
  
@@ -70,7 +70,7 @@ Interactive dashboard on a **synthetic 2,000-row dataset** (built to practise th
  
 ## Contact
  
-Open to Data Analyst, SQL Analyst and BI Analyst in **Bangalore, Pune, Delhi, Hyderabad, and Kolkata**.
+Open to Data Analyst, SQL Analyst, and BI Analyst roles in **Bangalore, Pune, Delhi, Hyderabad, and Kolkata**.
 📧 [ansu1032@gmail.com](mailto:ansu1032@gmail.com)
 ## 📈 GitHub Stats
 
